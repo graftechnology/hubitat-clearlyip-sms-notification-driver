@@ -2,9 +2,9 @@
   "author": "Graf Technology, LLC",
   "dateReleased": "2024-09-27",
   "description": "A Hubitat driver that sends SMS notifications via the ClearlyIP Unity SMS API.",
-  "documentationLink": "https://github.com/jacobgraf/hubitat-clearlyip-sms-driver",
-  "licenseFile": "https://github.com/jacobgraf/hubitat-clearlyip-sms-driver/blob/main/LICENSE",
-  "location": "https://raw.githubusercontent.com/jacobgraf/hubitat-clearlyip-sms-driver/main/packageManifest.json",
+  "documentationLink": "https://github.com/graftechnology/hubitat-clearlyip-sms-notification-driver",
+  "licenseFile": "https://github.com/graftechnology/hubitat-clearlyip-sms-notification-driver/blob/main/LICENSE",
+  "location": "https://raw.githubusercontent.com/graftechnology/hubitat-clearlyip-sms-notification-driver/main/packageManifest.json",
   "minimumHEVersion": "2.1.9",
   "packageName": "ClearlyIP SMS Notification Driver",
   "tags": [
@@ -19,7 +19,7 @@
       "id": "305d4adf-cfd6-4b5a-9eee-67db62bad74d",
       "name": "ClearlyIP SMS Notification Driver",
       "namespace": "graftechnology",
-      "location": "https://raw.githubusercontent.com/jacobgraf/hubitat-clearlyip-sms-driver/main/clearlyIpSmsNotificationDriver.groovy",
+      "location": "https://raw.githubusercontent.com/graftechnology/hubitat-clearlyip-sms-notification-driver/main/clearlyIpSmsNotificationDriver.groovy",
       "required": false,
       "version": "1.0.0"
     }
