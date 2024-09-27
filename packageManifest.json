@@ -13,5 +13,15 @@
     "ClearlyIP",
     "Driver"
   ],
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "drivers": [
+    {
+      "id": "305d4adf-cfd6-4b5a-9eee-67db62bad74d",
+      "name": "ClearlyIP SMS Notification Driver",
+      "namespace": "graftechnology",
+      "location": "https://raw.githubusercontent.com/jacobgraf/hubitat-clearlyip-sms-driver/main/clearlyIpSmsNotificationDriver.groovy",
+      "required": false,
+      "version": "1.0.0"
+    }
+  ]
 }
