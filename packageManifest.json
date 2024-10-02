@@ -3,7 +3,7 @@
   "dateReleased": "2024-09-27",
   "description": "A Hubitat driver that sends SMS notifications via the ClearlyIP Unity SMS API.",
   "documentationLink": "https://github.com/graftechnology/hubitat-clearlyip-sms-notification-driver",
-  "licenseFile": "https://github.com/graftechnology/hubitat-clearlyip-sms-notification-driver/blob/main/LICENSE",
+  "licenseFile": "https://raw.githubusercontent.com/graftechnology/hubitat-clearlyip-sms-notification-driver/main/LICENSE",
   "location": "https://raw.githubusercontent.com/graftechnology/hubitat-clearlyip-sms-notification-driver/main/packageManifest.json",
   "minimumHEVersion": "2.1.9",
   "packageName": "ClearlyIP SMS Notification Driver",
