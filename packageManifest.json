@@ -20,7 +20,7 @@
       "name": "ClearlyIP SMS Notification Driver",
       "namespace": "graftechnology",
       "location": "https://raw.githubusercontent.com/graftechnology/hubitat-clearlyip-sms-notification-driver/main/clearlyIpSmsNotificationDriver.groovy",
-      "required": false,
+      "required": true,
       "version": "1.0.0"
     }
   ]
